@@ -1,2 +1,11 @@
-# prog3_files
-files needed for programming assignment 3
+# Program #3
+
+Name:
+
+How to compile:
+  makefile?
+  question 1, 2,3, and 4
+
+Anything not working:
+
+
